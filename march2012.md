@@ -1,59 +1,53 @@
 # Last Month in Ruby (March 2012)
 * Covers what happened in the world of Ruby last month.
 * Covers news relevant to you as Ruby Developer that you might have missed.
-* Suggestions appreciated!
 
-# British Government Launches a Ruby powered portal
-* 'gov.uk' beta built on Sinatra and Rails.
-* Also uses MongoDB and MySQL.
-* More Details here http://oreil.ly/wvzgcD.
+# Vagrant Hits 1.0
+* Vagrant is a VirtualBox powered Ruby tool for creating VMs
+* Useful for testing Operating System dependencies
+* In development for years, so 1.0 is a big milestone.
 
-# Two minor releases to Rails
-* Rails 3.2.2 was released on March 1st.
-* Rails 3.2.1 released early in February.
-* Both were mainly bug fixes.
-* Core team is actively patching any issues coming from Ruby 2.0.
+# Mass Assignment Causes Panic
+* A great, productive discussion about Mass Assignment occurred.
+* Like any good discussion in the Rails community, it started with DRAMA!
+* GitHub was hacked by a white-hat hacker who added himself as a contributor to Rails core.
+* GitHub fixed the glitch, and banned the offender, only to re-instate him after community called for it.
+* Lots of solutions were discussed on how to avoid mass assignment security glitches.
+* RailsCasts released a revised screencast on dealing with Mass Assignment
+* http://bit.ly/HQdJRt
 
-# Rails 4 will use the HTTP PATCH method for updates
-* Rails gets more RESTful.
-* Partial updates to models won't require sending every attribute.
-* Opinions vary on whether this matters, but it brings Rails more in
-  line with the intent of REST.
 
-# JRuby 1.6.7 was released
-* Ramps up Ruby 1.9 support but the big release coming is JRuby 1.7.
-* JRuby 1.7 will default to Ruby 1.9 mode.
+# ActiveResource removed from Rails 4.0
+* Lesser known functionality within Rails to map RESTful API's using ActiveResource
+* Moved into a separate gem.
 
-# Second Edition of Rails Tutorial enters full draft
-* The seminal tutorial for newbies interested in Rails is now in its second edition.
-* Available at RailsTutorial.org.
+# Ruby 2.0 gets Enumerable::Lazy
+* Allows for lazy enumerables (like in ActiveRecord) for standard Ruby arrays
 
-# Spree 1.0 Released
-* The popular Rails-based eCommerce system reached 1.0.
-* Spree is now VC funded.
-* SpreeConf held in NYC last month.
+# GitHub releases Ruby Style Guide
+* Really interesting read, with lots of great conventions to follow
+* http://github.com/styleguide/ruby
 
-# RubyMine 4.0 Released
-* The most popular IDE for Rails developers from JetBrains.
-* Major speed improvements in this release.
-* Great for refactorings and debugging.
+# The .railsrc file
+* Lesser known feature in Rails 3.2 which allows you to create a file with preferred defaults for any new rails project you generate.
+* http://bit.ly/FPkwcy
 
-# Ruby 1.9.3-p125 Released
-* Adds LLVM/clang support for OSX Lion users.
-* GCC 4.7 support.
+# RailsConf in Austin, TX
+* RailsConf lands in Austin this year from April 23-25
+* First time it is being held in Austin.
+* Dallas.RB has a discount code! ~~Bribe~~ Ask Mark for details.
 
-# Ruby Enterprise Edition 1.8.7-2012.02 Released
-* Compatible with OSX Lion.
-* REE is slowly being retired, no 1.9 version planned.
-* Start migrating to 1.9.3 since Rails 4.0 will drop 1.8.7 support.
+# Releases
+* Rails 3.2.3 was released on March 30th.
+* Mainly bug fixes.
 
 # Notable Gems and Code
-* Devise 2.0 released.
-* SimpleForm 2.0 released with Twitter Bootstrap support.
-* A Faster patched Ruby 1.9.3 (Falcon build on RVM).
-* Active Attr: The Stuff Active Record left out.
-* MailView: Yet another Mail testing gem from 37 Signals.
-* Sidekiq: Efficient, Resque compatible message processing for Rails 3.
+* Wicked gem to create wizard like controllers for Rails.
+* Rocket Pants API Gem released.
+* Bundler 1.1 released
+* VCR 2.0.0 released
+* Rake pipeline released as an alternative for packaging assets.
+* Ry yet another Ruby version manager
 
 # Thanks!
 * Sign up for RubyWeekly.com.

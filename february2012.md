@@ -1,6 +1,7 @@
-# Last Month in Ruby (April 2012)
+# Last Month in Ruby (February 2012)
 * Covers what happened in the world of Ruby last month.
 * Covers news relevant to you as Ruby Developer that you might have missed.
+* Suggestions appreciated!
 
 # British Government Launches a Ruby powered portal
 * 'gov.uk' beta built on Sinatra and Rails.
