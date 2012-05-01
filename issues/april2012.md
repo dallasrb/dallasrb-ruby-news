@@ -74,6 +74,10 @@
 * Very compelling use of caching to significantly speed up a Rails app.
 * http://bit.ly/JAuvoz
 
+# ExploreRails, a screencast series on Rails Internals
+* Our own Mark McSpadden is working on a screencast series on Rails Internals.
+* Help fund his work here http://kck.st/JnAjiw
+
 # Notable Gems and Code
 * Debugger Gem that works correctly with 1.9.2 and 1.9.3. http://bit.ly/HUPD9B
 * AppScrolls gem from Dr Nic to create Rails App recipes. http://bit.ly/IPP0uk
