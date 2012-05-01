@@ -1,1 +1,1 @@
-web: bundle exec deck march2012.md -p $PORT
+web: bundle exec deck issues/april2012.md -p $PORT
