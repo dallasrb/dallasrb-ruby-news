@@ -11,6 +11,8 @@
 * Rails core initially agrees to pull in the commit, then back peddles.
 * DHH writes a blog post calling the whole thing a 'bike shed', ironically creating a meta bike-shed about the bike-shed.
 * Commit discussion here: https://github.com/rails/rails/commit/3756a3fdfe8d339a53bf347487342f93fd9e1edb
+<div style="float: left">![Cliff](http://f.cl.ly/items/1H3c3P0r3m2f3N0C2c1U/Screen%20Shot%202012-05-01%20at%203.26.40%20PM.png)</div>
+
 
 # Matz wins Free Software Foundation 2011 award
 * The creator of Ruby, Yukihiro Matsumoto was awarded a Free Software Foundation award.
