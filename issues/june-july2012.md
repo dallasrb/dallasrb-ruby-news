@@ -24,10 +24,11 @@
 * Advocating use of Rails in multi-threaded environments.
 * http://tenderlovemaking.com/2012/06/18/removing-config-threadsafe.html
 
-# Why your web framework should adopt the Rack API
+# Why your web framework should not adopt the Rack API
 * Blog post from Jose Valim (Rails core team member)
-* Describes the limits of using Rack (a CGI based API)
+* Describes the limits of using Rack middleware (a CGI based API)
 * Main issue is streaming, and Rack is getting in the way.
+* While it's possible to do streaming with Rails, it's not as elegant with Rack in place.
 * This will become more important as HTML5 becomes mainstream.
 * http://blog.plataformatec.com.br/2012/06/why-your-web-framework-should-not-adopt-rack-api
 
@@ -89,10 +90,10 @@
 * minitest 3.2.0
 
 # Notable Gems and Code
-* cupertino: A Ruby CLI or the Apple Dev Center http://bit.ly/N0RJZe
+* cupertino: A Ruby CLI for the Apple Dev Center http://bit.ly/N0RJZe
 * iprocess: Transport Ruby objects across Unix Processes http://bit.ly/N0U5Y6
 * bubble_wrap: More idiomatic Ruby wrappers for RubyMotion http://bubblewrap.io
-* grocery: Push notifications to Apple iOS devices. http://bit.ly/OK9uYN
+* grocer: Push notifications to Apple iOS devices. http://bit.ly/OK9uYN
 * barkeep: Open source code review tool. http://getbarkeep.org
 * seedbank: Organize your app's seed data. http://bit.ly/N0VIF8
 * desant: Open source landing page system. http://desantapp.com
