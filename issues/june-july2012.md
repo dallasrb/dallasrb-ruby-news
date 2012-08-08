@@ -59,7 +59,7 @@
 * Blog post by Gregory Moeck
 * One part rant, two parts good advice about API design
 * No matter what side of the fence you sit on, this is worth a read.
-* http://gmoeck.github.com/2012/07/09/dont-make-your-code-more-testable.htm
+* http://gmoeck.github.com/2012/07/09/dont-make-your-code-more-testable.html
 
 # Why I don't like factory_girl
 * Another blog post by Steve Klabnik
