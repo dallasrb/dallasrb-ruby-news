@@ -5,7 +5,7 @@ on the first Tuesday of every month at Dallas.rb.
 http://dallasrb.org
 
 The latest issue is usually deployed at:
-http://dallasrubynews.herokuapp.com
+http://news.dallasrb.org
 
 The /issues directory holds past issues in Markdown format.
 
