@@ -70,6 +70,12 @@ now is the time to give back.
 * 48 hour contest to build the best Rails app.
 * http://blog.railsrumble.com/
 
+# Rails Girls coming to Dallas
+* Rails Girls Dallas workshop is looking for sponsor and coaches.
+* Rails Girls is a two-day non-profit event for women and girls to give them a great first experience in software craftmanship.
+* Help Rails Girls come to Dallas by taking their survey:
+  http://www.instant.ly/s/LSdBtaGIIAA
+
 # Releases
 * RubyMotion 1.24 (iOS 6 support)
 * Sequel 3.40
