@@ -1,3 +1,10 @@
+# Welcome to Dallas Ruby (February 2013)
+* Introductions
+* Meetings, Gatherings, and Hackings
+* Find us online at http://dallasrb.org
+* Local Hiring
+* Conference Announcements
+
 # Last Month in Ruby (January 2013)
 * Covers what happened in the world of Ruby last month.
 * Covers news relevant to you as Ruby Developer that you might have missed.
