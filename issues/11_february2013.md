@@ -66,6 +66,8 @@ of DCI.
 * How to apply a Rails security patch http://bit.ly/TCFlBd
 * RubyGems.org hacked http://bit.ly/TCFFQk
 * What the Rails Security Issue means for your startup http://bit.ly/TCFTaf
+* Rails 3.0.20 is the last patch for Rails 3.0.x series.
+* Rails 2.3.x, 3.1.x, 3.2.x will still receive patches.
 * Bottom line: Patch your apps!
 
 # Releases
