@@ -36,7 +36,7 @@
 # Use Rails until it hurts
 * Blog post from Evan Light
 * Pushing back against the 'Pattern Vision' as DHH puts it.
-* http://palace.com/articles/2012/11/21/use-rails-until-it-hurts
+* http://evan.tiggerpalace.com/articles/2012/11/21/use-rails-until-it-hurts/
 
 # Releases
 * ruby-1.9.3-p327
