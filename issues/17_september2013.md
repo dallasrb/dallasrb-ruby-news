@@ -1,4 +1,4 @@
-# Welcome to Dallas Ruby (August 2013)
+# Welcome to Dallas Ruby (September 2013)
 * Introductions
 * Meetings, Gatherings, and Hackings
     - First Tuesday: Meeting at Improving Enterpises
@@ -11,7 +11,7 @@
     - Fifth Tuesday (when applicable): The Londoner in Addison
 * Find us online at http://dallasrb.org
 
-# Last Two Months in Ruby (August 2013)
+# Last Month in Ruby (August 2013)
 * Covers what happened in the world of Ruby the last two months.
 * Covers news relevant to you as Ruby Developer that you might have missed.
 * Current month available at:
@@ -100,5 +100,5 @@
 * Email news/feedback to ckrailo@gmail.com. (This is for you...)
 * Current month available at:
   * http://dallasrubynews.herokuapp.com
-  * http://news.dallasrb.org (Maybe, Hopefully, Eventually...)
+  * http://news.dallasrb.org (Bug McSpadden...)
 * Past issues available at http://github.com/dallasrb/dallasrb-ruby-news
