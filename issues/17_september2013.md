@@ -53,6 +53,8 @@
 * Can access today using pre-released version.
 * http://bit.ly/17C5NxR
 
+![](http://media.tumblr.com/76501d7e366e32c68e05bf0e931206ac/tumblr_inline_ms7d9qF6Hb1qz4rgp.png)
+
 # Writing Sensible Tests for Happiness
 * Testing as little as possible to reach a given level of confidence.
 * Seems like a good primer for those who haven't yet read *Rails Test Prescriptions*.
